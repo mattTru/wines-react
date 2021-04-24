@@ -1,0 +1,10 @@
+.link {
+  padding: 15px;
+  cursor: pointer;
+  list-style-type: none;
+}
+
+.link-active {
+  background-color: #667799;
+  color: #fff;
+}
